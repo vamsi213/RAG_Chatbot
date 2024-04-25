@@ -1,0 +1,7 @@
+langchain
+pypdf
+google-generativeai
+langchain_google_genai
+chromadb
+nltk
+streamlit
